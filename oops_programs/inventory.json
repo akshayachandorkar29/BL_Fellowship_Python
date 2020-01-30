@@ -1,0 +1,33 @@
+{
+  "rice": [
+    {
+      "name": "basmati",
+      "weight": 5,
+      "price": 140
+    },
+    {
+      "name": "kolam",
+      "weight": 4,
+      "price": 120
+    }
+  ],
+  "pulses": [
+    {
+      "name": "green peas",
+      "weight": 2,
+      "price": 90
+    },
+    {
+      "name": "white peas",
+      "weight": 3,
+      "price": 80
+    }
+  ],
+  "wheat": [
+    {
+      "name": "bran",
+      "weight": 10,
+      "price": 45
+    }
+  ]
+}

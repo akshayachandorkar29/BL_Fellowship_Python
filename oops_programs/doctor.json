@@ -1,0 +1,34 @@
+{
+    "doctor_info": [
+        {
+            "doctor_id": 1,
+            "doctor_name": "Akshaya",
+            "specialization": "Surgeon",
+            "availability": "am"
+        },
+        {
+            "doctor_id": 2,
+            "doctor_name": "Chetan",
+            "specialization": "Cardiologist",
+            "availability": "am"
+        },
+        {
+            "doctor_id": 3,
+            "doctor_name": "Sunita",
+            "specialization": "Gynacologist",
+            "availability": "pm"
+        },
+        {
+            "doctor_id": 4,
+            "doctor_name": "Angha",
+            "specialization": "dentist",
+            "availability": "both"
+        },
+        {
+            "doctor_id": 5,
+            "doctor_name": "Akash",
+            "specialization": "anesthesia",
+            "availability": "pm"
+        }
+    ]
+}

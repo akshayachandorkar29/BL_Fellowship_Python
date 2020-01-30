@@ -1,0 +1,28 @@
+{
+    "address_book": [
+        {
+            "first_name": "Akshaya",
+            "last_name": "Chandorkar",
+            "city": "kalyan",
+            "state": "maharashtra",
+            "zip": 421301,
+            "phone_number": "9890989767"
+        },
+        {
+            "first_name": "omkar",
+            "last_name": "amburle",
+            "city": "mangaon",
+            "state": "maharashtra",
+            "zip": 421301,
+            "phone_number": "9890454323"
+        },
+        {
+            "first_name": "saurabh",
+            "last_name": "singh",
+            "city": "kandivali",
+            "state": "maharashtra",
+            "zip": 432234,
+            "phone_number": "9890876765"
+        }
+    ]
+}

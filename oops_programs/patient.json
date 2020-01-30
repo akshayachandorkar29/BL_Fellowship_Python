@@ -1,0 +1,16 @@
+{
+    "patient_info": [
+        {
+            "patient_id": 1,
+            "patient_name": "Rutuja",
+            "mobile_number": "9920956787",
+            "age": 22
+        },
+        {
+            "patient_id": 2,
+            "patient_name": "Vaishnav",
+            "mobile_number": "9089878989",
+            "age": 24
+        }
+    ]
+}

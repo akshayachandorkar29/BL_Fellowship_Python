@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "name": "Rice",
+      "weight": 500,
+      "price_per_kg": 60
+    },
+    {
+      "name": "Pulses",
+      "weight": 250,
+      "price_per_kg": 90
+    },
+    {
+      "name": "Wheat",
+      "weight": 300,
+      "price_per_kg": 30
+    },
+    {
+      "name": "bajra",
+      "weight": 100,
+      "price_per_kg": 30
+    },
+    {
+      "name": "kolam",
+      "weight": 30,
+      "price_per_kg": 1
+    }
+  ]
+}

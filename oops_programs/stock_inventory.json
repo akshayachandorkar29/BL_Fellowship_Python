@@ -1,0 +1,37 @@
+{
+  "BSNL": [
+    {
+      "stock_name": "bsnl",
+      "no_of_shares": 50,
+      "share_price": 300
+    }
+  ],
+  "PETRONET": [
+    {
+      "stock_name": "petronet",
+      "no_of_shares": 100,
+      "share_price": 200
+    }
+  ],
+  "TATA": [
+    {
+      "stock_name": "tata",
+      "no_of_shares": 60,
+      "share_price": 350
+    }
+  ],
+  "JIO": [
+    {
+      "stock_name": "jio",
+      "no_of_shares": 80,
+      "share_price": 250
+    }
+  ],
+  "AIRTEL": [
+    {
+      "stock_name": "airtel",
+      "no_of_shares": 40,
+      "share_price": 150
+    }
+  ]
+}
